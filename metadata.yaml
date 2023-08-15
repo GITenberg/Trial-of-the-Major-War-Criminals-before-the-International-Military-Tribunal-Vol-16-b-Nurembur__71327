@@ -1,5 +1,8 @@
 _repo: Trial-of-the-Major-War-Criminals-before-the-International-Military-Tribunal-Vol-16-b-Nurembur__71327
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71327-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71327#Trial-of-the-Major-War-Criminals-before-the-International-Military-Tribunal-Vol-16-b-Nurembur_
 gutenberg_issued: '2023-08-03'
 identifiers:
   gutenberg: '71327'
